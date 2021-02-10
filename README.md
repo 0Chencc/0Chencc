@@ -17,6 +17,10 @@
 
 [![mysqlABG](https://github-readme-stats.vercel.app/api/pin/?username=0Chencc&repo=mysqlABG&show_owner=true)](https://github.com/0Chencc/mysqlABG)
 
+🏆 DaE:CTFCrackTools 's BurpSuite Plugin - Decode and Encode
+
+[![DaE](https://github-readme-stats.vercel.app/api/pin/?username=0Chencc&repo=DaE&show_owner=true)](https://github.com/0Chencc/DaE)
+
 ### 🔱 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Chencc&hide=css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stkey&hide=css,html&layout=compact)
