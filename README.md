@@ -1,36 +1,12 @@
-### 👤 About Me
+### 🕶About Me
+
 ![](/zichuanxiaotai.jpg)
 
-📕 南风知我意，吹梦到西洲
-
- - 😁 Nmae:[0chen]
- - 💻 WeChat:[XizhouPoetry]
- - 💖 Favorite: [Travel, Read, Music(R&R)]
-
-### 🔅 Recent Project
-
-🏆 CTFCrackTools: China's first CTFTools framework.
-
-[![CTFCrackTools](https://github-readme-stats.vercel.app/api/pin/?username=0Chencc&repo=CTFCrackTools&show_owner=true)](https://github.com/0Chencc/CTFCrackTools)
-
-
-🏆 HaE: BurpSuite Highlighter and Extractor
-
-[![HaE](https://github-readme-stats.vercel.app/api/pin/?username=gh0stkey&repo=HaE&show_owner=false)](https://github.com/gh0stkey/HaE)
-
-
-🏆 SakurajimaMai:Information aggregation and automatic push robot
-
-[![SakurajimaMai](https://github-readme-stats.vercel.app/api/pin/?username=0Chencc&repo=SakurajimaMai&show_owner=true)](https://github.com/0Chencc/SakurajimaMai)
-
-
-🏆 DaE: CTFCrackTools 's BurpSuite Plugin - Decode and Encode
-
-[![DaE](https://github-readme-stats.vercel.app/api/pin/?username=0Chencc&repo=DaE&show_owner=true)](https://github.com/0Chencc/DaE)
-
-### 🔱 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Chencc&hide=css,html&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=0Chencc&hide=css,html&layout=compact)
+ - 微信公众号「西洲集」 - Wechat Offcial Account XizhouPoetry
+ - 作为创始人加入「米斯特安全团队」 - Team Acmesec & Team Mystery Security
+ - 目前是在校大学生/自由职业/公司CEO/假文人/有几家公司但是不都做安全
+ - 开源项目只是兴趣使然：[CTFCrackTools ](https://github.com/0chencc/CTFCrackTools)作者、[HaE](https://github.com/gh0stkey/HaE) 、[CaA](https://github.com/gh0stkey/CaA) 共同作者
+ - “南风知我意，吹梦到西洲”
 
 ### ✨ Github Stats
 
