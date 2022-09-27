@@ -8,7 +8,7 @@
  - 开源项目只是兴趣使然
  - [CTFCrackTools](https://github.com/0chencc/CTFCrackTools)开发者、[HaE](https://github.com/gh0stkey/HaE) 、[CaA](https://github.com/gh0stkey/CaA) 、[Sylas](https://github.com/Acmesec/Sylas)共同开发者
  - “南风知我意，吹梦到西洲”
- - 梦想是早日脱单
+ - 梦想是~~早日脱单~~(已经脱单了，很开心)
  - 个人博客：[https://0chen.cc](https://0chen.cc)
 
 # ✨ Github Stats
